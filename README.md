@@ -1,4 +1,4 @@
-<img src="githubbanner.png" alt="Jeet Tamang Banner" width="100%" height="300">
+<img src="githubbanner.png" alt="Jeet Tamang Banner" width="100%" height="350">
 <h1 align="center">Hi 👋, I'm Jeet Tamang</h1>
 <h3 align="center">A passionate full stack developer from Nepal</h3>
 
