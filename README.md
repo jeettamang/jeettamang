@@ -1,4 +1,4 @@
-<img src="githubbanner.png" alt="Jeet Tamang Banner" width="100%">
+![logo](https://github.com/jeettamang/jeettamang/blob/main/githubbanner.png)
 <h1 align="center">Hi 👋, I'm Jeet Tamang</h1>
 <h3 align="center">A passionate full stack developer from Nepal</h3>
 
